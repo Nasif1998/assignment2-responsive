@@ -67,3 +67,20 @@ body{
 .it-color{
     color: white;
 }
+#bonus1{
+    margin-left: 30%;
+}
+#link-button{
+    text-decoration: none;
+    margin-left: 50%;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: white;
+    font-weight: 500;
+}
+.bonus-back{
+    background-image: url("image/bonus-download.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
