@@ -21,7 +21,7 @@ body{
     color: rgb(38, 38, 66);
 }
 .button-color{
-    background-color: rgb(87, 238, 87);
+    background-color: rgb(69, 187, 69);
     font-size: 24px;
     border-radius: 5px;
 }
@@ -60,4 +60,10 @@ body{
 .last-part-image{
     width: 40%;
     margin: 30px;
+}
+.i-color{
+    color: white;
+}
+.it-color{
+    color: white;
 }
