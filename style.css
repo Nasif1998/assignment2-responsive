@@ -80,7 +80,7 @@ body{
     font-weight: 500;
 }
 .bonus-back{
-    background-color: rgb(95, 85, 85);
+    background-color: lightgray;
     background-image: url("image/list.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
